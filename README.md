@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/CyniteOfficial/Auto-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Hardik433/Movie-Filter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -59,7 +59,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CyniteOfficial/Auto-Filter-Bot
+git clone https://github.com/Hardik433/Movie-Filter
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Cynite users
 ```
 
-Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/CyniteOfficial)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://t.me/CyniteBots)
+Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://web.tel.onl/#@harshal_patil_74)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://web.tel.onl/#@harshal_patil_74)
